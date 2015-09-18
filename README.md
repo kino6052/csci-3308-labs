@@ -1,4 +1,6 @@
 #CSCI-3308-Labs
 Lab solution for CSCI 3308
 Moon 
-Qinyue Yin 
+Qinyue Yin
+
+Partner: Kirill Novik 
